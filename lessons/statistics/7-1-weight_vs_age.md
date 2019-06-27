@@ -83,7 +83,7 @@ thinkplot.Config(xlabel='Age (yr)',
                  legend=False)
 ```
 
-![Age vs Weight Percentile Plot](age_weight_percentile.png)
+![Age vs Weight Percentile Plot](age_weight_percentiles.png)
 
 ## Correlation
 
